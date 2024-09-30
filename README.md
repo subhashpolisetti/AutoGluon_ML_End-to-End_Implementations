@@ -102,6 +102,4 @@ For a comprehensive step-by-step guide, including dataset exploration and code e
 
 [YouTube Walkthrough Videos](https://www.youtube.com/playlist?list=PL6O21IOHvBmfnPYmHJRWiovggjKClTI_w)
 
----
 
-Feel free to contribute to this repository by submitting pull requests or opening issues for any bugs or feature requests!
